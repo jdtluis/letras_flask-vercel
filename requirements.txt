@@ -1,0 +1,7 @@
+flask
+requests
+pandas==1.3.5
+numpy
+scipy
+tabula-py
+beautifulsoup4
